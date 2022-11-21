@@ -6,7 +6,6 @@ public class RunnableLambdaExample {
         /**
          * old Java
          */
-
         Runnable runnable = new Runnable() {
             @Override
             public void run() {
